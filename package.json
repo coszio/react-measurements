@@ -1,10 +1,12 @@
 {
   "name": "@coszio/react-measurements",
-  "version": "0.6.9",
+  "version": "0.6.10",
   "description": "A React component for measuring & annotating images.",
   "main": "build/lib/index.js",
   "author": "Robert Fisher",
-  "maintainers": ["Luis Cossío"],
+  "maintainers": [
+    "Luis Cossío"
+  ],
   "repository": "https://github.com/coszio/react-measurements/tree/npm",
   "license": "MIT",
   "peerDependencies": {

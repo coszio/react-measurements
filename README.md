@@ -1,6 +1,8 @@
-# react-measurements
+# @coszio/react-measurements
 
 A React component for measuring &amp; annotating images.
+
+This package needed customization to be used in [FiberDiameter](https://github.com/fcossio/FiberDiameter) so it was forked into this new package.
 
 ## Demo
 

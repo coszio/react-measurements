@@ -5,7 +5,7 @@
   "main": "build/lib/index.js",
   "author": "Robert Fisher",
   "maintainers": ["Luis Cossío"],
-  "repository": "https://github.com/coszio/react-measurements",
+  "repository": "https://github.com/coszio/react-measurements/tree/npm",
   "license": "MIT",
   "peerDependencies": {
     "draft-js": "^0.10.3",

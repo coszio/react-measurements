@@ -1,6 +1,6 @@
 {
   "name": "@coszio/react-measurements",
-  "version": "0.6.10",
+  "version": "0.6.11",
   "description": "A React component for measuring & annotating images.",
   "main": "build/lib/index.js",
   "author": "Robert Fisher",
